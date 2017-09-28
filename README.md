@@ -1,7 +1,9 @@
 # CameraTrap360
 These are simple code files for using two PIR motion sensor to trigger and Arduino to trigger a 360 camera, the RICOH THETA.
 
-The step=by-step instructable to make your own hacked 360 camera that gets triggered when something passes by and capture a whole spherical image of the entire scene are detailed in this Instructable: https://www.instructables.com/id/360-Camera-Trap/ This is the very first prototype of mine to get playing with 360 traps, so it’s a bit rough, but future improvements with the USB API (for less invasive hacking), and switching to waterproof cameras will make really durable awesome cameras you can rely on!
+The step=by-step instructable to make your own hacked 360 camera that gets triggered when something passes by and capture a whole spherical image of the entire scene are detailed in this Instructable: https://www.instructables.com/id/360-Camera-Trap/ 
+
+This is the very first prototype of mine to get playing with 360 traps, so it’s a bit rough, but future improvements with the USB API (for less invasive hacking), and switching to waterproof cameras will make really durable awesome cameras you can rely on!
 
 From the description:
 
