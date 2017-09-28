@@ -14,3 +14,6 @@ Full 360-degree camera traps can open up lots of new avenues of exploration for 
 ## Description Video:
 
 [Intro to 360 Camera Traps - (2D+360 Video together)](https://www.youtube.com/watch?time_continue=2&v=3h6yuxc5zqQ)
+
+![Analytics](https://ga-beacon.appspot.com/UA-73311422-5/360-animal-trap)
+
