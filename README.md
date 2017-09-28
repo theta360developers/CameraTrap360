@@ -15,5 +15,13 @@ Full 360-degree camera traps can open up lots of new avenues of exploration for 
 
 [Intro to 360 Camera Traps - (2D+360 Video together)](https://www.youtube.com/watch?time_continue=2&v=3h6yuxc5zqQ)
 
+---
+
+NOTE: Information below added by theta360developers
+
+Information on the WiFi and USB APIs is available in the [Unofficial API Guide](http://codetricity.github.io/theta-s/index.html).
+
+Discussion for this project is available on the [community.theta360.guide](http://lists.theta360.guide/t/create-a-360-virtual-reality-camera-trap-using-ricoh-theta-and-arduino/1642?u=jcasman) site.
+
 ![Analytics](https://ga-beacon.appspot.com/UA-73311422-5/360-animal-trap)
 
