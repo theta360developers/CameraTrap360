@@ -3,7 +3,9 @@ These are simple code files for using two PIR motion sensor to trigger and Ardui
 
 The step-by-step Instructable to make your own hacked 360° camera that gets triggered when something passes by and capture a whole spherical image of the entire scene are detailed in this Instructable: https://www.instructables.com/id/360-Camera-Trap/ 
 
-From the developer Andrew Quitmeyer: This is the very first prototype of mine to get playing with 360 traps, so it’s a bit rough, but future improvements with the USB API (for less invasive hacking), and switching to waterproof cameras will make really durable awesome cameras you can rely on!
+From the developer Andrew Quitmeyer: 
+
+This is the very first prototype of mine to get playing with 360 traps, so it’s a bit rough, but future improvements with the USB API (for less invasive hacking), and switching to waterproof cameras will make really durable awesome cameras you can rely on!
 
 From the description:
 
